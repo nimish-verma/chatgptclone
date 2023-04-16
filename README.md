@@ -5,3 +5,5 @@ Link for project:
 
 Deployed on Vercel: 
 https://chatgptclone-5z4l2fva1-nimish-verma.vercel.app
+https://chatgptclone-sigma.vercel.app/
+
